@@ -1,6 +1,7 @@
-Heather's recipe
+
+Recipe by Ben
+
 #ingredients
 -lime
 #process
-# Guacamole stuff 
 
